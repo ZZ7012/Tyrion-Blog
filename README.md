@@ -1,3 +1,6 @@
-# xlings-book-template
+# 快速使用
 
-在线 **文档 | 书籍 | 笔记** 模板仓库 - [**快速使用**](https://d2learn.github.io/xlings-book-template/)
+使用`xlings-book-template`快速搭建一个在线**书籍 | 文档 | 笔记**的配置介绍
+
+- [创建新仓库](./chapter_1.md)
+- [配置并更新内容](./chapter_1.md)
