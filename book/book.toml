@@ -7,7 +7,7 @@ language = "en"
 build-dir = "book"
 
 [output.html]
-git-repository-url = "https://github.com/d2learn/xlings-book-template"
+git-repository-url = "https://github.com/ZZ7012/Tyrion-blog"
 
 [preprocessor.foo]
 # Add any additional configurations
